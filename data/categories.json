@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "code": "emergency",
+        "name": "Emergency",
+        "description": "Urgent response contacts"
+    },
+    {
+        "id": 2,
+        "code": "fire",
+        "name": "Fire",
+        "description": "Fire and rescue services"
+    },
+    {
+        "id": 3,
+        "code": "police",
+        "name": "Police",
+        "description": "Police emergency support"
+    },
+    {
+        "id": 4,
+        "code": "coast_guard",
+        "name": "Coast Guard",
+        "description": "Marine and coastal emergencies"
+    },
+    {
+        "id": 5,
+        "code": "environment",
+        "name": "Environment",
+        "description": "Environmental incidents"
+    },
+    {
+        "id": 6,
+        "code": "health",
+        "name": "Health",
+        "description": "Medical emergency support"
+    }
+]

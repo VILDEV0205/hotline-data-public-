@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "agency_code": "DRRMO",
+        "agency_name": "Disaster Risk Reduction and Management Office",
+        "agency_type": "DRRMO",
+        "email": null,
+        "website": null,
+        "office_hours": null,
+        "created_at": "2026-04-28 22:09:54",
+        "sync_version": 1,
+        "last_synced_at": null,
+        "is_dirty": 0
+    },
+    {
+        "id": 2,
+        "agency_code": "PNP",
+        "agency_name": "Philippine National Police",
+        "agency_type": "PNP",
+        "email": null,
+        "website": null,
+        "office_hours": null,
+        "created_at": "2026-04-28 22:09:54",
+        "sync_version": 1,
+        "last_synced_at": null,
+        "is_dirty": 0
+    },
+    {
+        "id": 3,
+        "agency_code": "BFP",
+        "agency_name": "Bureau of Fire Protection",
+        "agency_type": "BFP",
+        "email": null,
+        "website": null,
+        "office_hours": null,
+        "created_at": "2026-04-28 22:09:54",
+        "sync_version": 1,
+        "last_synced_at": null,
+        "is_dirty": 0
+    },
+    {
+        "id": 4,
+        "agency_code": "PCG",
+        "agency_name": "Philippine Coast Guard",
+        "agency_type": "PCG",
+        "email": null,
+        "website": null,
+        "office_hours": null,
+        "created_at": "2026-04-28 22:09:54",
+        "sync_version": 1,
+        "last_synced_at": null,
+        "is_dirty": 0
+    },
+    {
+        "id": 5,
+        "agency_code": "DENR_R7",
+        "agency_name": "Department of Environment and Natural Resources Region VII",
+        "agency_type": "DENR",
+        "email": null,
+        "website": null,
+        "office_hours": null,
+        "created_at": "2026-04-28 22:09:54",
+        "sync_version": 1,
+        "last_synced_at": null,
+        "is_dirty": 0
+    }
+]
