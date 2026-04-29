@@ -1,13 +1,5 @@
 {
-    "exported_at": "2026-04-28T18:43:43+00:00",
-    "since": null,
-    "counts": {
-        "hotlines": 163,
-        "agencies": 5,
-        "locations": 49,
-        "categories": 6,
-        "contact_numbers": 233,
-        "feedback": 0
-    },
-    "version": 1
+    "exported_at": "2026-04-29T02:18:58.161042Z",
+    "total_hotlines": 164,
+    "version": "1.0"
 }
